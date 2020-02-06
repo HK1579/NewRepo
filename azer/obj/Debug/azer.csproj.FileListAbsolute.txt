@@ -1,0 +1,10 @@
+C:\Users\21262\source\repos\azer\azer\bin\Debug\azer.exe.config
+C:\Users\21262\source\repos\azer\azer\bin\Debug\azer.exe
+C:\Users\21262\source\repos\azer\azer\bin\Debug\azer.pdb
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.csprojAssemblyReference.cache
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.Form1.resources
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.Properties.Resources.resources
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.csproj.GenerateResource.cache
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.csproj.CoreCompileInputs.cache
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.exe
+C:\Users\21262\source\repos\azer\azer\obj\Debug\azer.pdb
